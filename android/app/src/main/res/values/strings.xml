@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">tetrazero</string>
+    <string name="title_activity_main">tetrazero</string>
+    <string name="package_name">com.tetrazero.tetrazero</string>
+    <string name="custom_url_scheme">com.tetrazero.tetrazero</string>
+</resources>

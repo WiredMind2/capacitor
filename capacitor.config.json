@@ -1,0 +1,6 @@
+{
+  "appId": "com.tetrazero.tetrazero",
+  "appName": "tetrazero",
+  "webDir": "src",
+  "bundledWebRuntime": false
+}
